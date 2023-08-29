@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X8 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 21000 29700"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.048mm" height="3.048mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 305 305"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
    <clipPath id="id0">
-    <rect x="1655" y="2525" width="17639" height="17639"/>
+    <rect y="10" width="315" height="288"/>
    </clipPath>
  </defs>
  <g id="图层_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g style="clip-path:url(#id0)">
-   <image x="1655" y="2525" width="17639" height="17639" xlink:href="未命名 -1_Images\未命名 -1_ImgID1.png"/>
+   <image x="0" y="10" width="315" height="288" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAIAAAEVFujuAAAACXBIWXMA
+ABOvAAAUTAET+jhpAAAA1ElEQVR4nH1SQQ6EMAikCbc1PsLUs8b/v6Fxz/gKH6BLnS62xF0OCp0B
+OqN8HAcRcYwxpcSloit4GIZt20qBTHm5AK8geCmiFAYBNQeiaVnWlDJS99SRW9b13XWvMcaTSLma
+iHYoOM+T1jjFhjzXboXEnn93WFOdsyNiswdAv29loaNU40OHxmnLw3enmVMAaXXcAHQ4ukYIQUR+
+6nNjEPu+933vG/CC4y5synjtb9RJKwKaYIzZ6n0KlRc2vv4IQLNNaJXrD8BpzaP25LbPbvkow5IP
+AQ2emmhXfrQAAAAASUVORK5CYII="/>
   </g>
  </g>
 </svg>
