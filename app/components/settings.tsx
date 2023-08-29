@@ -245,7 +245,7 @@ function SyncItems() {
   const syncStore = useSyncStore();
   const webdav = syncStore.webDavConfig;
 
-  // not ready: https://github.com/Yidadaa/ChatGPT-Next-Web/issues/920#issuecomment-1609866332
+  // not ready: http://www.ggem666.com
   return null;
 
   return (
